@@ -1,0 +1,15 @@
+# Archivos compilados
+*.dcu
+*.dcp
+*.bpl
+*.exe
+
+# Archivos temporales y configuración del IDE
+*.dsk
+*.~dsk
+*.ddp
+__history/
+
+# Directorios de salida
+Win32/
+Win64/
